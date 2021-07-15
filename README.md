@@ -1,16 +1,8 @@
-![Skyim Modding for Programmers](Images/logo.jpg)
-
-# Skyrim Scripting
+![Skyim Scripting for Programmers](Images/logo.jpg)
 
 > _A series of tutorial screencasts_
 
 ---
-
-I couldn't find many screencasts / tutorials which focus on Skyrim Mod **Scripting**.
-
-So I'm making a series.
-
-Enjoy.
 
 # Code
 
@@ -31,20 +23,21 @@ Libraries which this screencast series will cover:
 
 # Series
 
-## Part 1 - Intro to Mods
+## Part 1 - Hello, Mod!
 
 - [Nexus Mods](https://www.nexusmods.com/)
 - [Skyrim Special Editition Mods](https://www.nexusmods.com/skyrimspecialedition)
 - [Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272)
+- `BSA` Bethesda Softworks Archive (BSARC Compression)
 - [BAE (Bethesda Archive Extractor)](https://www.nexusmods.com/skyrimspecialedition/mods/974)
+- `ESM` Elder Scrolls Master
+- `ESP` Elder Scrolls Plugin
+- `ESL` Light Master
 - [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164/)
 - `C:\Program Files (X86)\Steam\Steamapps\Common\Skyrim Special Edition\Data`
 - `C:\Users\[USER]\AppData\Local\Skyrim Special Edition\plugins.txt`
 - `C:\Users\[USER]\Documents\My Games\Skyrim Special Edition\Skyrim.ini`
 - `C:\Users\[USER]\Documents\My Games\Skyrim Special Edition\Saves\`
-
-## Part 2 - Creation Kit
-
 - [Bethesda Launcher](https://bethesda.net/en/game/bethesda-launcher)
 - `regsvr32 "C:\Program Files (X86)\Steam\Steamapps\Common\Skyrim Special Edition\Data<path to skyrim>\flowchartx64.dll"`
 
@@ -55,6 +48,7 @@ Libraries which this screencast series will cover:
 
 ## Part 4 - Papyrus
 
+- Visual Studio Code
 - Enable Logging
 
 ## Part 5 - SKSE
@@ -63,9 +57,10 @@ Libraries which this screencast series will cover:
 
 ## Part 6 - Integrating Multiple Mods
 
-...
+- Mod Events
 
 ## Other
 
 - Create LAL Scenario
 - Create console command
+- Share via Nexus Mods as ESL esp and BSA
