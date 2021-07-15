@@ -25,6 +25,14 @@ Libraries which this screencast series will cover:
 
 ## Part 1 - Hello, Mod!
 
+- Install a mod
+- See it run
+- Look at its anatomy
+- Edit it
+- See our edits
+
+Notes:
+
 - [Nexus Mods](https://www.nexusmods.com/)
 - [Skyrim Special Editition Mods](https://www.nexusmods.com/skyrimspecialedition)
 - [Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272)
@@ -38,6 +46,9 @@ Libraries which this screencast series will cover:
 - `C:\Users\[USER]\AppData\Local\Skyrim Special Edition\plugins.txt`
 - `C:\Users\[USER]\Documents\My Games\Skyrim Special Edition\Skyrim.ini`
 - `C:\Users\[USER]\Documents\My Games\Skyrim Special Edition\Saves\`
+
+## Part 2 - Hello, Creation Kit!
+
 - [Bethesda Launcher](https://bethesda.net/en/game/bethesda-launcher)
 - `regsvr32 "C:\Program Files (X86)\Steam\Steamapps\Common\Skyrim Special Edition\Data<path to skyrim>\flowchartx64.dll"`
 - [Custom Tweaked Ini](https://www.nexusmods.com/skyrimspecialedition/mods/19817/)
@@ -47,21 +58,22 @@ Libraries which this screencast series will cover:
 - [Mod Organizer 2](https://www.modorganizer.org/)
 - [Vortex](https://www.nexusmods.com/about/vortex/)
 
-## Part 4 - Papyrus
+## Part 4 - Modding in Git
+
+## Part 5 - Papyrus Primer
 
 - Visual Studio Code
 - Enable Logging
 
-## Part 5 - SKSE
+## Part 6 - SKSE
 
-...
-
-## Part 6 - Integrating Multiple Mods
+## Part 7 - Integrating Multiple Mods
 
 - Mod Events
 
 ## Other
 
+- Viewing script variables on savegames
 - Create LAL Scenario
 - Create console command
 - Share via Nexus Mods as ESL esp and BSA
