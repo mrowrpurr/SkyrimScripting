@@ -1,4 +1,4 @@
-![Skyim Scripting for Programmers](Images/logo.jpg)
+![Skyim Scripting](Images/SkyrimScripting.jpg)
 
 > _A series of tutorial screencasts_
 
