@@ -23,13 +23,18 @@ Libraries which this screencast series will cover:
 
 # Series
 
-## Part 1 - Hello, Mod!
+## Part 1 - Introduction
+
+- Screencast series introduction
+
+## Part 2 - Basic Mod Anatomy
 
 - Install a mod
 - See it run
 - Look at its anatomy
 - Edit it
 - See our edits
+- Peek at savegame scripts
 
 Notes:
 
@@ -46,28 +51,29 @@ Notes:
 - `C:\Users\[USER]\AppData\Local\Skyrim Special Edition\plugins.txt`
 - `C:\Users\[USER]\Documents\My Games\Skyrim Special Edition\Skyrim.ini`
 - `C:\Users\[USER]\Documents\My Games\Skyrim Special Edition\Saves\`
+- `ESS` Elder Scrolls Save
 
-## Part 2 - Hello, Creation Kit!
+## Part 3 - Hello, Creation Kit!
 
 - [Bethesda Launcher](https://bethesda.net/en/game/bethesda-launcher)
 - `regsvr32 "C:\Program Files (X86)\Steam\Steamapps\Common\Skyrim Special Edition\Data<path to skyrim>\flowchartx64.dll"`
 - [Custom Tweaked Ini](https://www.nexusmods.com/skyrimspecialedition/mods/19817/)
 
-## Part 3 - Mod Managers
+## Part 4 - Mod Managers
 
 - [Mod Organizer 2](https://www.modorganizer.org/)
 - [Vortex](https://www.nexusmods.com/about/vortex/)
 
-## Part 4 - Modding in Git
+## Part 5 - Modding in Git
 
-## Part 5 - Papyrus Primer
+## Part 6 - Papyrus Primer
 
 - Visual Studio Code
 - Enable Logging
 
-## Part 6 - SKSE
+## Part 7 - SKSE
 
-## Part 7 - Integrating Multiple Mods
+## Part 8 - Integrating Multiple Mods
 
 - Mod Events
 
@@ -77,3 +83,4 @@ Notes:
 - Create LAL Scenario
 - Create console command
 - Share via Nexus Mods as ESL esp and BSA
+- Custom UI Widgets (fla/as Flash ActionScript 3)
