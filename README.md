@@ -40,6 +40,7 @@ Libraries which this screencast series will cover:
 - `C:\Users\[USER]\Documents\My Games\Skyrim Special Edition\Saves\`
 - [Bethesda Launcher](https://bethesda.net/en/game/bethesda-launcher)
 - `regsvr32 "C:\Program Files (X86)\Steam\Steamapps\Common\Skyrim Special Edition\Data<path to skyrim>\flowchartx64.dll"`
+- [Custom Tweaked Ini](https://www.nexusmods.com/skyrimspecialedition/mods/19817/)
 
 ## Part 3 - Mod Managers
 
