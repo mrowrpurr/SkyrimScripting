@@ -1,6 +1,6 @@
 ![Skyim Modding for Programmers](Images/logo.jpg)
 
-# Skyrim Modding for Programmers
+# Skyrim Scripting
 
 > _A series of tutorial screencasts_
 
@@ -18,12 +18,24 @@ The code for each screencast can be found here.
 
 More info coming soon.
 
+# Libraries
+
+Libraries which this screencast series will cover:
+
+- SKSE
+- Papyrus Utils
+- Papyrus Extender
+- JContainers
+- UI Extensions
+- Console Util
+
 # Series
 
 ## Part 1 - Intro to Mods
 
 - [Nexus Mods](https://www.nexusmods.com/)
 - [Skyrim Special Editition Mods](https://www.nexusmods.com/skyrimspecialedition)
+- [Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272)
 - [BAE (Bethesda Archive Extractor)](https://www.nexusmods.com/skyrimspecialedition/mods/974)
 - [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164/)
 - `C:\Program Files (X86)\Steam\Steamapps\Common\Skyrim Special Edition\Data`
@@ -47,6 +59,13 @@ More info coming soon.
 
 ## Part 5 - SKSE
 
+...
+
+## Part 6 - Integrating Multiple Mods
+
+...
+
 ## Other
 
 - Create LAL Scenario
+- Create console command
