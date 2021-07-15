@@ -25,6 +25,14 @@ Libraries which this screencast series will cover:
 
 ## Part 1 - Hello, Mod!
 
+- Install a mod
+- See it run
+- Look at its anatomy
+- Edit it
+- See our edits
+
+Notes:
+
 - [Nexus Mods](https://www.nexusmods.com/)
 - [Skyrim Special Editition Mods](https://www.nexusmods.com/skyrimspecialedition)
 - [Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272)
@@ -38,6 +46,9 @@ Libraries which this screencast series will cover:
 - `C:\Users\[USER]\AppData\Local\Skyrim Special Edition\plugins.txt`
 - `C:\Users\[USER]\Documents\My Games\Skyrim Special Edition\Skyrim.ini`
 - `C:\Users\[USER]\Documents\My Games\Skyrim Special Edition\Saves\`
+
+## Part 2 - Hello, Creation Kit!
+
 - [Bethesda Launcher](https://bethesda.net/en/game/bethesda-launcher)
 - `regsvr32 "C:\Program Files (X86)\Steam\Steamapps\Common\Skyrim Special Edition\Data<path to skyrim>\flowchartx64.dll"`
 - [Custom Tweaked Ini](https://www.nexusmods.com/skyrimspecialedition/mods/19817/)
