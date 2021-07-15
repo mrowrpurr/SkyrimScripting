@@ -27,7 +27,7 @@ Libraries which this screencast series will cover:
 
 - Screencast series introduction
 
-## Part 2 - Mod Anatomy and SSEEdit
+## Part 2 - Basic Mod Anatomy
 
 - Install a mod
 - See it run
