@@ -58,9 +58,9 @@ Notes:
 - [Mod Organizer 2](https://www.modorganizer.org/)
 - [Vortex](https://www.nexusmods.com/about/vortex/)
 
-## Part 4 - Mods in Git
+## Part 4 - Modding in Git
 
-## Part 5 - Papyrus
+## Part 5 - Papyrus Primer
 
 - Visual Studio Code
 - Enable Logging
@@ -73,6 +73,7 @@ Notes:
 
 ## Other
 
+- Viewing script variables on savegames
 - Create LAL Scenario
 - Create console command
 - Share via Nexus Mods as ESL esp and BSA
