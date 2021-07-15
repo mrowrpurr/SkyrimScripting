@@ -47,16 +47,16 @@ Libraries which this screencast series will cover:
 - [Mod Organizer 2](https://www.modorganizer.org/)
 - [Vortex](https://www.nexusmods.com/about/vortex/)
 
-## Part 4 - Papyrus
+## Part 4 - Mods in Git
+
+## Part 5 - Papyrus
 
 - Visual Studio Code
 - Enable Logging
 
-## Part 5 - SKSE
+## Part 6 - SKSE
 
-...
-
-## Part 6 - Integrating Multiple Mods
+## Part 7 - Integrating Multiple Mods
 
 - Mod Events
 
