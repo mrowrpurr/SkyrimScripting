@@ -34,6 +34,7 @@ Libraries which this screencast series will cover:
 - Look at its anatomy
 - Edit it
 - See our edits
+- Peek at savegame scripts
 
 Notes:
 
@@ -50,6 +51,7 @@ Notes:
 - `C:\Users\[USER]\AppData\Local\Skyrim Special Edition\plugins.txt`
 - `C:\Users\[USER]\Documents\My Games\Skyrim Special Edition\Skyrim.ini`
 - `C:\Users\[USER]\Documents\My Games\Skyrim Special Edition\Saves\`
+- `ESS` Elder Scrolls Save
 
 ## Part 3 - Hello, Creation Kit!
 
