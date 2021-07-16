@@ -23,6 +23,19 @@ Libraries which this screencast series will cover:
 
 # Series
 
+1. Introduction
+2. Install Skyrim
+3. Install Creation Kit & create Hello World mod
+4. Installing Mods & using Mod Managers
+5. Installing SKSE & looking at available functions
+6. Visual Studio Code setup & Skyrim live debugger
+
+---
+
+---
+
+_First thoughts..._
+
 ## Part 1 - Introduction
 
 - Screencast series introduction
