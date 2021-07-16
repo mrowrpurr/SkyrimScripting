@@ -29,6 +29,8 @@ Libraries which this screencast series will cover:
 4. Installing Mods & using Mod Managers
 5. Installing SKSE & looking at available functions
 6. Visual Studio Code setup & Skyrim live debugger
+7. Mod Anatomy & Tools of the Trade (BAE, SSEEdit, Gimp/DDS, ReSaver)
+8. Papyrus Primer
 
 ---
 
