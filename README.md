@@ -25,8 +25,8 @@ Libraries which this screencast series will cover:
 
 1. Introduction & Skyrim Installation
 2. Install Creation Kit & create Hello World mod
-3. Installing Mods & using Mod Managers
-4. Mod Anatomy & Tools of the Trade (BAE, SSEEdit, Gimp/DDS, ReSaver)
+3. Mod Anatomy & Tools of the Trade (BAE, SSEEdit, Gimp/DDS, ReSaver)
+4. Installing Mods & using Mod Managers
 5. Installing SKSE & looking at available functions
 6. Visual Studio Code setup & Skyrim live debugger
 7. Papyrus Primer
