@@ -36,11 +36,11 @@ Ok, let's go!
 
 # Series 1: Mod Authoring Setup
 
+- [ ] **Common Tools**: Modding Basics
 - [ ] **Creation Kit**: Install Skyrim Creation Kit and make a mod
 - [ ] **Papyrus Compiler**: Papyrus Compiler and Decompiler
 - [ ] **SKSE**: Skyrim Script Extender
 - [ ] **Mod Managers**: Vortex and Mod Organizer 2 together
-- [ ] **Common Tools**: Common Modding Tools
 - [ ] **Project Files**: Building Mods using Pyro
 - [ ] **Visual Studio Code**: Skyrim Scripting with VS Code
 - [ ] **Debugger**: Papyrus Script Debugging
