@@ -32,7 +32,7 @@ I have a couple of goals with this screencasting series:
 
 Ok, let's go!
 
-- [ ] **Introduction Video**: Skyrim Scripting
+- [x] **Introduction Video**: Skyrim Scripting
 
 # Series 1: Mod Authoring Setup
 
