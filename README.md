@@ -50,8 +50,15 @@ Ok, let's go!
 - [ ] Console Util
 - [ ] Papyrus Extender
 
-# Series 3: Mod Configuration Menu
+# Series 3: Skyrim Script Reloader
+
+- [ ] Hot Reloading Scripts during development ( _without restarting Skyrim_ )
 
 # Miscellaneous
 
 - [ ] Player Scripts
+- [ ] Crosshair Inspector
+- [ ] Keyboard Shortcuts
+- [ ] Custom Console Commands
+- [ ] Custom Mod Events
+- [ ] Detecting Other Installed Mods
