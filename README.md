@@ -4,7 +4,7 @@
 
 ---
 
-👋 Hey y'all, @mrowrpurr here.
+👋 Hey y'all, [@mrowrpurr](https://github.com/mrowrpurr) here.
 
 I'm a new Skyrim modder ( _long time software developer_ )
 
