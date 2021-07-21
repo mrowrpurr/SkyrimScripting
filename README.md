@@ -39,5 +39,19 @@ Ok, let's go!
 - [ ] **Creation Kit**: Install Skyrim Creation Kit and make a mod
 - [ ] **SKSE**: Skyrim Script Extender
 - [ ] **Mod Managers**: Vortex and Mod Organizer 2 together
+- [ ] **Common Tools**: Common Modding Tools
 - [ ] **Project Files**: Building Mods using Pyro
 - [ ] **Visual Studio Code**: Skyrim Scripting with VS Code
+
+# Series 2: Common Libraries
+
+- [ ] Papyrus Util
+- [ ] UI Extensions
+- [ ] Console Util
+- [ ] Papyrus Extender
+
+# Series 3: Mod Configuration Menu
+
+# Miscellaneous
+
+- [ ] Player Scripts
