@@ -50,7 +50,7 @@ Ok, let's go!
 - [ ] Console Util
 - [ ] Papyrus Extender
 
-# Series 3: Skyrim Script Reloader
+# Series 3: Script Reloader Mod
 
 - [ ] Hot Reloading Scripts during development ( _without restarting Skyrim_ )
 
@@ -64,3 +64,4 @@ Ok, let's go!
 - [ ] Detecting Other Installed Mods
 - [ ] .ini Configuration Files
 - [ ] .json Configuration Files
+- [ ] Summon Hirelings Mod
