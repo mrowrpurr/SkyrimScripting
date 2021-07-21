@@ -62,3 +62,5 @@ Ok, let's go!
 - [ ] Custom Console Commands
 - [ ] Custom Mod Events
 - [ ] Detecting Other Installed Mods
+- [ ] .ini Configuration Files
+- [ ] .json Configuration Files
