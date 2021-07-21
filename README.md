@@ -36,7 +36,7 @@ Ok, let's go!
 
 # Series 1: Mod Authoring Setup
 
-- [ ] **Common Tools**: Modding Basics
+- [ ] **Common Language**: Modding Basics
 - [ ] **Creation Kit**: Install Skyrim Creation Kit and make a mod
 - [ ] **Papyrus Compiler**: Papyrus Compiler and Decompiler
 - [ ] **SKSE**: Skyrim Script Extender
