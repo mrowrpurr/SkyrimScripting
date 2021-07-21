@@ -43,6 +43,7 @@ Ok, let's go!
 - [ ] **Common Tools**: Common Modding Tools
 - [ ] **Project Files**: Building Mods using Pyro
 - [ ] **Visual Studio Code**: Skyrim Scripting with VS Code
+- [ ] **Debugger**: Papyrus Script Debugging
 
 # Series 2: Common Libraries
 
