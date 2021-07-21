@@ -37,6 +37,7 @@ Ok, let's go!
 # Series 1: Mod Authoring Setup
 
 - [ ] **Creation Kit**: Install Skyrim Creation Kit and make a mod
+- [ ] **Papyrus Compiler**: Papyrus Compiler and Decompiler
 - [ ] **SKSE**: Skyrim Script Extender
 - [ ] **Mod Managers**: Vortex and Mod Organizer 2 together
 - [ ] **Common Tools**: Common Modding Tools
@@ -65,3 +66,8 @@ Ok, let's go!
 - [ ] .ini Configuration Files
 - [ ] .json Configuration Files
 - [ ] Summon Hirelings Mod
+
+# Series Wishlist
+
+- Create SKSE Plugin
+- Create .NET Script Framework Plugin
