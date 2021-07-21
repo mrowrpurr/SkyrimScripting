@@ -70,5 +70,6 @@ Ok, let's go!
 
 # Series Wishlist
 
+- Papyrus Basics
 - Create SKSE Plugin
 - Create .NET Script Framework Plugin
