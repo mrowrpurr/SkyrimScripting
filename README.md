@@ -46,16 +46,12 @@ Ok, let's go!
 - [ ] **Visual Studio Code**: Skyrim Scripting with VS Code
 - [ ] **Debugger**: Papyrus Script Debugging
 
-# Series 2: Common Libraries
+# Series 2: Common Modding Libraries
 
 - [ ] Papyrus Util
 - [ ] UI Extensions
 - [ ] Console Util
 - [ ] Papyrus Extender
-
-# Series 3: Script Reloader Mod
-
-- [ ] Hot Reloading Scripts during development ( _without restarting Skyrim_ )
 
 # Miscellaneous
 
