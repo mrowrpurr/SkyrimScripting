@@ -1,3 +1,5 @@
+> _Idea for a new episode? [Submit a request here!](https://github.com/mrowrpurr/SkyrimScripting/issues/new?assignees=&labels=&template=new-episode-request.md&title=Episode+Request)_
+
 ![Skyim Scripting](Images/Logo/SkyrimScripting.jpg)
 
 > _A series of tutorial screencasts_
