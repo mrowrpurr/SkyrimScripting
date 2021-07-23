@@ -70,3 +70,4 @@ Ok, let's go!
 - Papyrus Basics
 - Create SKSE Plugin
 - Create .NET Script Framework Plugin
+- Create Flash Widgets
