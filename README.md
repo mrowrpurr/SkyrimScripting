@@ -52,6 +52,7 @@ Ok, let's go!
 - [ ] UI Extensions
 - [ ] Console Util
 - [ ] Papyrus Extender
+- [ ] iWant Widgets
 
 # Miscellaneous
 
