@@ -45,6 +45,7 @@ Ok, let's go!
 - [ ] **Project Files**: Building Mods using Pyro
 - [ ] **Visual Studio Code**: Skyrim Scripting with VS Code
 - [ ] **Debugger**: Papyrus Script Debugging
+- [ ] **Sharing**: Sharing Mods on NexusMods
 
 # Series 2: Common Modding Libraries
 
