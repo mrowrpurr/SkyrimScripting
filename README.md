@@ -40,7 +40,6 @@ Ok, let's go!
 
 - [ ] **Common Language**: Modding Basics
 - [ ] **Creation Kit**: Install Skyrim Creation Kit and make a mod
-- [ ] **Papyrus Compiler**: Papyrus Compiler and Decompiler
 - [ ] **SKSE**: Skyrim Script Extender
 - [ ] **Mod Managers**: Vortex and Mod Organizer 2 together
 - [ ] **Project Files**: Building Mods using Pyro
