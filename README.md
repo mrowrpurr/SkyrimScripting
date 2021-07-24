@@ -41,10 +41,7 @@ Ok, let's go!
 - [ ] **Common Language**: Modding Basics
 - [ ] **Creation Kit**: Install Skyrim Creation Kit and make a mod
 - [ ] **Mod Managers**: Vortex and Mod Organizer 2 together
-- [ ] **Project Files**: Building Mods using Pyro
-- [ ] **Visual Studio Code**: Skyrim Scripting with VS Code (and SKSE)
-- [ ] **Debugger**: Papyrus Script Debugging
-- [ ] **Sharing**: Sharing Mods on NexusMods
+- [ ] **Script Authoring Setup**: Best Skyrim Screencasting Setup
 
 # Series 2: Common Modding Libraries
 
