@@ -32,14 +32,17 @@ I have a couple of goals with this screencasting series:
 
 Ok, let's go!
 
-- [ ] **Introduction Video**: Skyrim Scripting
+# Series 1: Intro to Skyrim Scripting
 
-# Series 1: Mod Authoring Setup
-
-- [ ] **Common Language**: Modding Basics
-- [ ] **Creation Kit**: Install Skyrim Creation Kit and make a mod
-- [ ] **Mod Managers**: Vortex and Mod Organizer 2 together
-- [ ] **Script Authoring Setup**: Best Skyrim Screencasting Setup
+1. Intro to Skyrim Scripting
+2. Install Creation Kit and make a mod
+3. Write mods using Vortex and Mod Organizer 2
+4. Writing Scripts outside of Creation Kit
+5. Write Scripts using SKSE (Skyrim Script Extender)
+6. Using the Skyrim Script Debugger and Log Viewer
+7. Skyrim Script Basics (Papyrus)
+8. Lots of Common Skyrim Modder Tools
+9. Ready for Adventure!
 
 # Series 2: Common Modding Libraries
 
