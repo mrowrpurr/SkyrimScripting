@@ -42,8 +42,10 @@ Ok, let's go!
 6. Write Scripts using SKSE (Skyrim Script Extender)
 7. Using the Skyrim Script Debugger and Log Viewer
 8. Skyrim Script Basics (Papyrus)
-9. Lots of Common Skyrim Modder Tools
-10. Ready for Adventure!
+9. Using Common Skyrim Mod Libraries / Utils
+10. Anatomy of a Skyrim Mod and common tools
+11. Packaging Your Skyrim Mod for Release
+12. Ready for Adventure!
 
 # Series 2: Common Modding Libraries
 
