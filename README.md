@@ -24,11 +24,9 @@ I have a couple of goals with this screencasting series:
 2. Get y'all an _efficient_ and _enjoyable_ **local development environment** ( _with debugging tools_ )
 3. Get y'all acquainted with some of the **most common modding tools** which you'll need
 4. Get y'all **super comfortable** making new simply mods _really quickly_ and _painlessly_
-5. Get y'all posting your mods to **GitHub**, **Nexus Mods**, **Lovers Lab**\*, and/or other sites
+5. Get y'all posting your mods to **GitHub**, **Nexus Mods**, and other sites
 6. Teach y'all some of the **basics** _as I learn them myself!_
 7. Share various miscellaneous videos, mostly creating **libraries and utilities** for other modders!
-
-> \* FYI: Lovers Lab has plenty of NSFW content ( _but it's also a very popular place for SFW content_ )
 
 # Ready?
 
