@@ -35,14 +35,15 @@ Ok, let's go!
 # Series 1: Intro to Skyrim Scripting
 
 1. Intro to Skyrim Scripting
-2. Install Creation Kit and make a mod
-3. Write mods using Vortex and Mod Organizer 2
-4. Writing Scripts outside of Creation Kit
-5. Write Scripts using SKSE (Skyrim Script Extender)
-6. Using the Skyrim Script Debugger and Log Viewer
-7. Skyrim Script Basics (Papyrus)
-8. Lots of Common Skyrim Modder Tools
-9. Ready for Adventure!
+2. Install Skyrim outside of Program Files
+3. Install Creation Kit and make a mod
+4. Write mods using Vortex and Mod Organizer 2
+5. Writing Scripts outside of Creation Kit
+6. Write Scripts using SKSE (Skyrim Script Extender)
+7. Using the Skyrim Script Debugger and Log Viewer
+8. Skyrim Script Basics (Papyrus)
+9. Lots of Common Skyrim Modder Tools
+10. Ready for Adventure!
 
 # Series 2: Common Modding Libraries
 
