@@ -1,7 +1,7 @@
 ---
 name: "New Episode Request: [your idea]"
 about: Suggest an idea for an episode
-title: Episode Request
+title: "New Episode Request: [idea]"
 labels: ''
 assignees: ''
 
