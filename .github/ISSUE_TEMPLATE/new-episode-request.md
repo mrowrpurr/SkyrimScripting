@@ -1,5 +1,5 @@
 ---
-name: New Episode Request: <your idea>
+name: New Episode Request: [your idea]
 about: Suggest an idea for an episode
 title: Episode Request
 labels: ''
