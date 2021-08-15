@@ -4,6 +4,8 @@
 
 > _A series of tutorial screencasts_
 > 
-> https://www.youtube.com/channel/UCS8mvo8o60dgPQe9WJRp2qQ
+> http://skyrimscripting.com
 
 ---
+
+View my current list of episodes here: [SkyrimScripting/projects/1](https://github.com/mrowrpurr/SkyrimScripting/projects/1)
