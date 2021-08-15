@@ -8,4 +8,4 @@
 
 ---
 
-View my current list of episodes here: [SkyrimScripting/projects/1](https://github.com/mrowrpurr/SkyrimScripting/projects/1)
+View my current list of episode ideas and in progress episodes here: [SkyrimScripting/projects/1](https://github.com/mrowrpurr/SkyrimScripting/projects/1)
